@@ -1,0 +1,141 @@
+═══════════════════════════════════════════════
+AGENT BRIEF: The Doji Only Matters in One Place on Your Chart (v1) · TEST BATCH SHOT_001 to SHOT_050
+═══════════════════════════════════════════════
+
+[STYLE BIBLE]
+=== VISUAL STYLE DNA ===
+ART STYLE:
+- Clean single-stroke vector icon style, NOT sketchy or hand-drawn
+- Flat colors, bold black outlines, precise clean lines
+CHARACTERS:
+- Simple stick figures with large circular heads
+- Face: a single large fixed "$" symbol. NO eyes, mouth, nose, or brows, ever
+- Emotion only through floating icons (Zzz, sweat drops, "!", "?", steam lines, sparkle, wavy lines) and body posture
+- No earbud/headphone prop on @Trader
+- No animal mascots; any secondary character is another human stick figure
+BACKGROUNDS:
+- Flat solid color only, one per shot, no gradients/shadows/textures/patterns
+- #FFFFFF neutral/baseline · #8B2E2E loss/fear/panic/drawdown · #C9A227 greed/euphoria/FOMO/blow-off top
+- #3A5A78 calm/discipline/patience · #3E6B4F growth/profit/breakout · #7A6248 historical flashback
+- #2B2B2B high tension/warning/risk
+- "Env" describes props and objects drawn on top of the flat BG color, never a scenic backdrop
+ASPECT RATIO: Always 16:9
+
+[CHARACTER LOCK]
+- @Trader: main stick figure, large circular head with a single "$" face, black outline, no accessories
+- @Buyer: identical stick-figure build with a green armband; may appear as a group of identical copies
+- @Seller: identical stick-figure build with a red armband; may appear as a group of identical copies
+- "Chars: none" means no character in the shot, objects only
+
+[CANDLE DRAWING RULES]
+- Green candle = rising, red candle = falling, cross/doji = very thin flat horizontal body with wicks above and below
+- Candles are simple flat shapes with black outlines, no numbers or axis labels unless specified
+
+[RULES]
+- Keep character appearance IDENTICAL across all shots
+- Use the EXACT filename given for each shot
+- FILENAME is metadata only. NEVER render it as visible text or watermark inside the image
+- No text/letters in images other than specified ALL CAPS on-screen text
+- Aspect ratio 16:9 for ALL images
+- Apply STYLE BIBLE to every image, including the BG hex per shot
+
+
+FILENAME: SHOT_001.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: @Trader leans toward a monitor filled with dozens of tiny cross-shaped candles, head tilted, "?" icon floating; on-screen text in a small bottom banner: EDUCATIONAL CONTENT — NOT FINANCIAL ADVICE | Frame: medium shot
+
+FILENAME: SHOT_002.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: @Trader shrugs with both arms out; the tiny crosses fade to grey; on-screen text in a small bottom banner: EDUCATIONAL CONTENT — NOT FINANCIAL ADVICE | Frame: medium shot
+
+FILENAME: SHOT_003.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: @Trader stands beside the monitor, one hand raised in a calm open-palm gesture; on-screen text: EDUCATIONAL CONTENT — NOT FINANCIAL ADVICE | Frame: medium shot
+
+FILENAME: SHOT_004.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #FFFFFF | Action: wide view of a long chart full of small crosses, all grey | Frame: wide shot
+
+FILENAME: SHOT_005.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #FFFFFF | Action: one single cross on the chart glows with a bold outline while the rest stay grey, @Trader points at it | Frame: medium shot
+
+FILENAME: SHOT_006.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #FFFFFF | Action: @Trader holds a magnifying glass up to the chart, "?" icon above head | Frame: medium shot
+
+FILENAME: SHOT_007.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #FFFFFF | Action: close view through the magnifying glass lens showing one cross-shaped candle | Frame: close-up
+
+FILENAME: SHOT_008.png | Chars: @Trader | Env: empty space | BG: #FFFFFF | Action: one large cross-shaped candle appears center frame, @Trader presents it with an open hand; on-screen text: DOJI | Frame: medium shot
+
+FILENAME: SHOT_009.png | Chars: @Trader | Env: old Japanese rice market street | BG: #7A6248 | Action: @Trader walks past wooden rice stalls with stacked rice sacks | Frame: wide shot
+
+FILENAME: SHOT_010.png | Chars: @Trader | Env: old Japanese rice market street | BG: #7A6248 | Action: two identical hanging clocks side by side showing the same time, @Trader looks up at them | Frame: medium shot
+
+FILENAME: SHOT_011.png | Chars: @Trader | Env: library desk | BG: #7A6248 | Action: a closed book on a desk with a candlestick icon on its cover; on-screen text: 1991 | Frame: medium shot
+
+FILENAME: SHOT_012.png | Chars: @Trader | Env: library desk | BG: #7A6248 | Action: @Trader opens the book and small candlestick icons float up out of the pages | Frame: close-up
+
+FILENAME: SHOT_013.png | Chars: @Trader | Env: empty space | BG: #FFFFFF | Action: @Trader nods, index finger raised, sparkle icon beside the large cross candle | Frame: medium shot
+
+FILENAME: SHOT_014.png | Chars: none | Env: empty space | BG: #FFFFFF | Action: a single candle drawn in close-up: a flat horizontal body line with a thin wick above and below | Frame: close-up
+
+FILENAME: SHOT_015.png | Chars: none | Env: empty space | BG: #FFFFFF | Action: two small arrows labeled by dots mark the open and close sitting on the same horizontal line | Frame: extreme close-up
+
+FILENAME: SHOT_016.png | Chars: @Trader | Env: empty space | BG: #FFFFFF | Action: @Trader peers at the flat body, scratching head, "?" icon | Frame: medium shot
+
+FILENAME: SHOT_017.png | Chars: none | Env: empty space | BG: #FFFFFF | Action: the upper wick glows | Frame: close-up
+
+FILENAME: SHOT_018.png | Chars: none | Env: empty space | BG: #FFFFFF | Action: the lower wick glows | Frame: close-up
+
+FILENAME: SHOT_019.png | Chars: @Trader, @Buyer, @Seller | Env: a single giant candle as a vertical track | BG: #FFFFFF | Action: @Buyer climbs up the wick toward the top | Frame: medium shot
+
+FILENAME: SHOT_020.png | Chars: @Trader, @Buyer, @Seller | Env: a single giant candle as a vertical track | BG: #FFFFFF | Action: @Seller pushes @Buyer back down to the middle line | Frame: medium shot
+
+FILENAME: SHOT_021.png | Chars: @Trader, @Buyer, @Seller | Env: a single giant candle as a vertical track | BG: #FFFFFF | Action: @Seller slides down the lower wick, @Buyer hauls them back up by a rope to the middle | Frame: medium shot
+
+FILENAME: SHOT_022.png | Chars: @Buyer, @Seller | Env: a single giant candle as a vertical track | BG: #FFFFFF | Action: @Buyer and @Seller both stand on the flat middle line, arms crossed, facing each other | Frame: medium shot
+
+FILENAME: SHOT_023.png | Chars: @Buyer, @Seller | Env: a single giant candle as a vertical track | BG: #FFFFFF | Action: a scoreboard beside them reads 0 : 0 | Frame: close-up
+
+FILENAME: SHOT_024.png | Chars: @Trader | Env: empty space | BG: #FFFFFF | Action: @Trader holds a ruler against a tiny candle body, "?" icon | Frame: medium shot
+
+FILENAME: SHOT_025.png | Chars: @Trader | Env: empty space | BG: #FFFFFF | Action: three slightly different tiny candle bodies lined up side by side | Frame: close-up
+
+FILENAME: SHOT_026.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: three monitors on the desk, each showing a different small candle body highlighted | Frame: wide shot
+
+FILENAME: SHOT_027.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: @Trader looks from one monitor to the next, sweat drop icon | Frame: medium shot
+
+FILENAME: SHOT_028.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: @Trader sits back in the chair, chin on hand, thinking wavy lines above head | Frame: medium shot
+
+FILENAME: SHOT_029.png | Chars: @Buyer, @Seller | Env: tug-of-war field | BG: #FFFFFF | Action: @Buyer and @Seller hold a rope, neither moving; on-screen text: TIE | Frame: wide shot
+
+FILENAME: SHOT_030.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #FFFFFF | Action: camera pulls back to show many small crosses across the chart | Frame: wide shot
+
+FILENAME: SHOT_031.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: monitor shows a flat sideways chart between two horizontal lines | Frame: medium shot
+
+FILENAME: SHOT_032.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: @Trader taps each cross with a pointer, small tally marks appearing beside the monitor | Frame: close-up
+
+FILENAME: SHOT_033.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: tally marks keep multiplying, @Trader's arm tired, Zzz icon | Frame: medium shot
+
+FILENAME: SHOT_034.png | Chars: @Buyer, @Seller | Env: sideways range drawn as a box | BG: #3A5A78 | Action: @Buyer and @Seller sit on either side of a seesaw that stays perfectly level | Frame: medium shot
+
+FILENAME: SHOT_035.png | Chars: @Buyer, @Seller | Env: sideways range drawn as a box | BG: #3A5A78 | Action: close view of the level seesaw with a small balance icon | Frame: close-up
+
+FILENAME: SHOT_036.png | Chars: @Trader | Env: sideways range drawn as a box | BG: #3A5A78 | Action: a small cross candle appears on the level seesaw | Frame: medium shot
+
+FILENAME: SHOT_037.png | Chars: @Trader | Env: sideways range drawn as a box | BG: #3A5A78 | Action: @Trader yawns, Zzz icon floating | Frame: medium shot
+
+FILENAME: SHOT_038.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: @Trader holds a sign-shaped blank card, "?" icon, head tilted | Frame: medium shot
+
+FILENAME: SHOT_039.png | Chars: @Trader | Env: trading desk with one large monitor | BG: #FFFFFF | Action: the blank card crumples in @Trader's hand | Frame: close-up
+
+FILENAME: SHOT_040.png | Chars: @Trader | Env: sideways range drawn as a box | BG: #3A5A78 | Action: a mirror in front of the sideways chart reflects the same sideways chart | Frame: medium shot
+
+FILENAME: SHOT_041.png | Chars: @Trader | Env: sideways range drawn as a box | BG: #3A5A78 | Action: @Trader shrugs beside the mirror | Frame: medium shot
+
+FILENAME: SHOT_042.png | Chars: @Trader | Env: empty space | BG: #FFFFFF | Action: @Trader walks forward then stops mid-step, "!" icon | Frame: medium shot
+
+FILENAME: SHOT_043.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #3E6B4F | Action: a long rising chart climbs from bottom left to top right | Frame: wide shot
+
+FILENAME: SHOT_044.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #3E6B4F | Action: @Trader looks up the tall staircase of candles | Frame: medium shot
+
+FILENAME: SHOT_045.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #3E6B4F | Action: a row of tall green candles, each closing near its top | Frame: medium shot
+
+FILENAME: SHOT_046.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #3E6B4F | Action: close view of one green candle with a tiny upper wick | Frame: close-up
+
+FILENAME: SHOT_047.png | Chars: @Trader, @Buyer, @Seller | Env: giant floating candlestick chart | BG: #3E6B4F | Action: @Buyer stands proudly on top of the rising chart, flag in hand | Frame: medium shot
+
+FILENAME: SHOT_048.png | Chars: @Trader, @Buyer, @Seller | Env: giant floating candlestick chart | BG: #FFFFFF | Action: @Buyer's flag wobbles, sweat drop icon | Frame: medium shot
+
+FILENAME: SHOT_049.png | Chars: @Trader, @Buyer, @Seller | Env: giant floating candlestick chart | BG: #FFFFFF | Action: @Trader watches from below, "?" icon | Frame: medium shot
+
+FILENAME: SHOT_050.png | Chars: @Trader | Env: giant floating candlestick chart | BG: #2B2B2B | Action: at the top of the rally, a single candle forms: price shoots up | Frame: close-up
