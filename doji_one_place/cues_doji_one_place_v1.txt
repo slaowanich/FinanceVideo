@@ -1,0 +1,189 @@
+EDITOR CUE SHEET: The Doji Only Matters in One Place on Your Chart (v1)
+Not for Google Flow. Use in DaVinci/CapCut to match each image to its voiceover line.
+
+SHOT_001  Your chart is covered in tiny crosses.
+SHOT_002  Most of them mean absolutely nothing.
+SHOT_003  This is market education, not advice for your account.
+SHOT_004  One of those crosses, in one
+SHOT_005  specific spot, can mean a lot.
+SHOT_006  Where is that spot, and
+SHOT_007  how would you recognize it?
+SHOT_008  The cross has a name... the Dohjee.
+SHOT_009  The word comes from Japanese and
+SHOT_010  means roughly at the same time.
+SHOT_011  Candlestick charts became widely known in the
+SHOT_012  West after a 1991 English book.
+SHOT_013  That name describes the candle almost perfectly.
+SHOT_014  The open and the close land
+SHOT_015  at almost the same price.
+SHOT_016  Did all that action just disappear?
+SHOT_017  It went into the wicks,
+SHOT_018  above and below the body.
+SHOT_019  Price runs up during the session,
+SHOT_020  then gets pushed back down.
+SHOT_021  Price drops, then gets dragged back up again.
+SHOT_022  By the close, neither side
+SHOT_023  has moved the market anywhere.
+SHOT_024  There is no official rule for
+SHOT_025  how close counts as almost.
+SHOT_026  Every charting tool picks its own
+SHOT_027  threshold for a body that small.
+SHOT_028  What does a candle like that actually record?
+SHOT_029  It records a tie,
+SHOT_030  and ties are everywhere.
+SHOT_031  Pull up any sideways market
+SHOT_032  and count the Dohjees.
+SHOT_033  You will find one every few candles.
+SHOT_034  Inside a range, buyers and
+SHOT_035  sellers are already balanced.
+SHOT_036  A candle showing balance inside a
+SHOT_037  balanced market tells you nothing new.
+SHOT_038  Why would that count as
+SHOT_039  a signal at all?
+SHOT_040  It would not, because the
+SHOT_041  market is only describing itself.
+SHOT_042  Indecision only matters when it interrupts a decision.
+SHOT_043  Picture a market that has
+SHOT_044  climbed for several straight weeks.
+SHOT_045  Green candle after green candle, each
+SHOT_046  one closing near its high.
+SHOT_047  Buyers have held control the entire time.
+SHOT_048  What happens when that control
+SHOT_049  slips for a single day?
+SHOT_050  Then one session opens, rallies, drops,
+SHOT_051  and closes right where it started.
+SHOT_052  For the first time in weeks, buyers
+SHOT_053  pushed and could not keep the gain.
+SHOT_054  Does that mean the trend is over?
+SHOT_055  Not yet, and that distinction matters a lot.
+SHOT_056  Think about a car cruising down a highway.
+SHOT_057  It has held a steady hundred
+SHOT_058  kilometers an hour for an hour.
+SHOT_059  Suddenly the driver lifts off the gas.
+SHOT_060  That tells you something changed inside the car.
+SHOT_061  It does not tell you
+SHOT_062  the car is turning around.
+SHOT_063  Which of those two things
+SHOT_064  is your Dohjee actually showing?
+SHOT_065  Only the foot lifting off the pedal.
+SHOT_066  The same stopped car in a
+SHOT_067  parking lot would mean nothing.
+SHOT_068  That is the one place
+SHOT_069  this candle earns your attention.
+SHOT_070  It sits at the end
+SHOT_071  of a long, stretched move.
+SHOT_072  Everywhere else, it is a
+SHOT_073  car that was never moving.
+SHOT_074  Does the direction of the
+SHOT_075  trend change its weight?
+SHOT_076  Classic candlestick references treat a Dohjee after
+SHOT_077  a long rally as a stronger warning.
+SHOT_078  After a long decline, the same
+SHOT_079  candle is considered less reliable.
+SHOT_080  Why would a rally and
+SHOT_081  a decline behave so differently?
+SHOT_082  A rally needs fresh buyers
+SHOT_083  to keep feeding it.
+SHOT_084  When they hesitate even once, the missing
+SHOT_085  fuel shows up on the chart.
+SHOT_086  A falling market behaves very differently from that.
+SHOT_087  It can keep sliding
+SHOT_088  under its own weight.
+SHOT_089  Selling does not need enthusiasm to continue.
+SHOT_090  A pause after a long drop often
+SHOT_091  turns out to be only a pause.
+SHOT_092  How much does the exact
+SHOT_093  price level add to this?
+SHOT_094  Quite a bit, as it turns out.
+SHOT_095  A Dohjee in open space after
+SHOT_096  a rally is one clue.
+SHOT_097  A Dohjee that forms right at a
+SHOT_098  previous high is a stronger one.
+SHOT_099  That old high is where sellers
+SHOT_100  showed up the last time.
+SHOT_101  Price has returned, and buyers
+SHOT_102  still cannot close above it.
+SHOT_103  You are watching the same argument
+SHOT_104  happen twice at the same price.
+SHOT_105  Does the shape of the wicks add anything else?
+SHOT_106  The wicks carry the details of that argument.
+SHOT_107  A long upper wick with the body
+SHOT_108  at the bottom is a gravestone Dohjee.
+SHOT_109  Buyers drove price high, and sellers
+SHOT_110  erased every bit of it.
+SHOT_111  A long lower wick with the body
+SHOT_112  at the top is a dragonfly.
+SHOT_113  There, sellers pushed hard and buyers
+SHOT_114  dragged price all the way back.
+SHOT_115  Long wicks on both sides
+SHOT_116  make a long-legged Dohjee.
+SHOT_117  At the top of a rally,
+SHOT_118  which shape should worry buyers most?
+SHOT_119  The gravestone, because it shows rejection
+SHOT_120  exactly where buyers wanted to win.
+SHOT_121  Still, the shape stays secondary to the location.
+SHOT_122  A perfect gravestone in the middle
+SHOT_123  of a range is still noise.
+SHOT_124  An ugly Dohjee at the top of
+SHOT_125  a stretched rally deserves far more attention.
+SHOT_126  Context comes first, and the shape comes second.
+SHOT_127  Can a Dohjee ever finish
+SHOT_128  the story on its own?
+SHOT_129  It cannot, because it needs the
+SHOT_130  candle that comes after it.
+SHOT_131  Candlestick references describe a three-candle pattern
+SHOT_132  called the evening Dohjee star.
+SHOT_133  First comes a strong green
+SHOT_134  candle in an established uptrend.
+SHOT_135  Then a Dohjee gaps above it
+SHOT_136  and stalls near the high.
+SHOT_137  Finally a red candle closes deep
+SHOT_138  into the first green body.
+SHOT_139  Without that third candle, what
+SHOT_140  do you really have?
+SHOT_141  You have a warning with no direction attached.
+SHOT_142  That is the honest limit of this candle.
+SHOT_143  The middle candle raises the question,
+SHOT_144  and the next one answers it.
+SHOT_145  It cannot tell you how
+SHOT_146  far a reversal will run.
+SHOT_147  It cannot tell you when
+SHOT_148  that reversal starts either.
+SHOT_149  Plenty of Dohjees at the top of
+SHOT_150  a rally are followed by more rally.
+SHOT_151  How do you avoid reading every
+SHOT_152  single one as a top?
+SHOT_153  Start with the timeframe the candle formed on.
+SHOT_154  A Dohjee on a five-minute chart
+SHOT_155  holds five minutes of disagreement.
+SHOT_156  A Dohjee on a weekly chart holds
+SHOT_157  five full trading days of it.
+SHOT_158  The weekly candle simply carries far more evidence.
+SHOT_159  Volume adds weight in exactly the same way.
+SHOT_160  Heavy volume on a Dohjee means
+SHOT_161  many shares changed hands without progress.
+SHOT_162  Which of those would you take
+SHOT_163  more seriously, effort or silence?
+SHOT_164  Effort with no result is the louder message.
+SHOT_165  A Dohjee on thin volume might
+SHOT_166  just be a quiet holiday session.
+SHOT_167  The same shape on heavy volume shows
+SHOT_168  both sides fighting hard to a draw.
+SHOT_169  Can all of this fit into one simple reading?
+SHOT_170  Put the pieces together and
+SHOT_171  it reads like this.
+SHOT_172  Inside a range, the Dohjee is background noise.
+SHOT_173  After a long, stretched move,
+SHOT_174  it becomes a real warning.
+SHOT_175  It weighs more at a rally's
+SHOT_176  top than a decline's bottom.
+SHOT_177  At a level that turned price
+SHOT_178  before, it weighs more again.
+SHOT_179  Then the next candle confirms it or cancels it.
+SHOT_180  Does any single cross on your
+SHOT_181  chart pass all of those tests?
+SHOT_182  Most will not, and that is the
+SHOT_183  point of knowing where to look.
+SHOT_184  Your chart is still covered in tiny crosses.
+SHOT_185  The one that matters sits where a
+SHOT_186  long trend stops agreeing with itself.

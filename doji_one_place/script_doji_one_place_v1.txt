@@ -1,0 +1,57 @@
+Your chart is covered in tiny crosses. Most of them mean absolutely nothing. This is market education, not advice for your account. One of those crosses, in one specific spot, can mean a lot. Where is that spot, and how would you recognize it?
+
+The cross has a name... the Dohjee. The word comes from Japanese and means roughly at the same time. Candlestick charts became widely known in the West after a 1991 English book. That name describes the candle almost perfectly. The open and the close land at almost the same price. Did all that action just disappear?
+
+It went into the wicks, above and below the body. Price runs up during the session, then gets pushed back down. Price drops, then gets dragged back up again. By the close, neither side has moved the market anywhere. There is no official rule for how close counts as almost. Every charting tool picks its own threshold for a body that small. What does a candle like that actually record?
+
+It records a tie, and ties are everywhere. Pull up any sideways market and count the Dohjees. You will find one every few candles. Inside a range, buyers and sellers are already balanced. A candle showing balance inside a balanced market tells you nothing new. Why would that count as a signal at all?
+
+It would not, because the market is only describing itself.
+
+Indecision only matters when it interrupts a decision. Picture a market that has climbed for several straight weeks. Green candle after green candle, each one closing near its high. Buyers have held control the entire time. What happens when that control slips for a single day? Then one session opens, rallies, drops, and closes right where it started. For the first time in weeks, buyers pushed and could not keep the gain. Does that mean the trend is over?
+
+Not yet, and that distinction matters a lot. Think about a car cruising down a highway. It has held a steady hundred kilometers an hour for an hour. Suddenly the driver lifts off the gas. That tells you something changed inside the car. It does not tell you the car is turning around. Which of those two things is your Dohjee actually showing?
+
+Only the foot lifting off the pedal. The same stopped car in a parking lot would mean nothing. That is the one place this candle earns your attention. It sits at the end of a long, stretched move. Everywhere else, it is a car that was never moving.
+
+Does the direction of the trend change its weight? Classic candlestick references treat a Dohjee after a long rally as a stronger warning. After a long decline, the same candle is considered less reliable. Why would a rally and a decline behave so differently?
+
+A rally needs fresh buyers to keep feeding it. When they hesitate even once, the missing fuel shows up on the chart. A falling market behaves very differently from that. It can keep sliding under its own weight. Selling does not need enthusiasm to continue. A pause after a long drop often turns out to be only a pause. How much does the exact price level add to this?
+
+Quite a bit, as it turns out. A Dohjee in open space after a rally is one clue. A Dohjee that forms right at a previous high is a stronger one. That old high is where sellers showed up the last time. Price has returned, and buyers still cannot close above it. You are watching the same argument happen twice at the same price. Does the shape of the wicks add anything else?
+
+The wicks carry the details of that argument. A long upper wick with the body at the bottom is a gravestone Dohjee. Buyers drove price high, and sellers erased every bit of it. A long lower wick with the body at the top is a dragonfly. There, sellers pushed hard and buyers dragged price all the way back. Long wicks on both sides make a long-legged Dohjee. At the top of a rally, which shape should worry buyers most?
+
+The gravestone, because it shows rejection exactly where buyers wanted to win. Still, the shape stays secondary to the location. A perfect gravestone in the middle of a range is still noise. An ugly Dohjee at the top of a stretched rally deserves far more attention. Context comes first, and the shape comes second.
+
+Can a Dohjee ever finish the story on its own? It cannot, because it needs the candle that comes after it. Candlestick references describe a three-candle pattern called the evening Dohjee star. First comes a strong green candle in an established uptrend. Then a Dohjee gaps above it and stalls near the high. Finally a red candle closes deep into the first green body. Without that third candle, what do you really have?
+
+You have a warning with no direction attached. That is the honest limit of this candle. The middle candle raises the question, and the next one answers it. It cannot tell you how far a reversal will run. It cannot tell you when that reversal starts either. Plenty of Dohjees at the top of a rally are followed by more rally. How do you avoid reading every single one as a top?
+
+Start with the timeframe the candle formed on. A Dohjee on a five-minute chart holds five minutes of disagreement. A Dohjee on a weekly chart holds five full trading days of it. The weekly candle simply carries far more evidence. Volume adds weight in exactly the same way. Heavy volume on a Dohjee means many shares changed hands without progress. Which of those would you take more seriously, effort or silence?
+
+Effort with no result is the louder message. A Dohjee on thin volume might just be a quiet holiday session. The same shape on heavy volume shows both sides fighting hard to a draw. Can all of this fit into one simple reading?
+
+Put the pieces together and it reads like this. Inside a range, the Dohjee is background noise. After a long, stretched move, it becomes a real warning. It weighs more at a rally's top than a decline's bottom. At a level that turned price before, it weighs more again. Then the next candle confirms it or cancels it. Does any single cross on your chart pass all of those tests?
+
+Most will not, and that is the point of knowing where to look. Your chart is still covered in tiny crosses. The one that matters sits where a long trend stops agreeing with itself.
+
+==========
+PRODUCTION NOTES
+Title: The Doji Only Matters in One Place on Your Chart
+Tone mode: Standard
+Target length: 8 minutes (1,200 words, acceptable 1,080 to 1,320)
+Final word count: see validator line; est. runtime about 7.4 minutes at 150 wpm
+Respellings used: Doji respelled as Dohjee at every occurrence, including evening Dohjee star, gravestone Dohjee, long-legged Dohjee, plural Dohjees. On-screen text keeps the real spelling DOJI.
+Historical/educational only. No tickers, no live calls, no positions.
+
+SOURCE LOG
+1. Doji etymology: Japanese dōji (同時), "at the same time / simultaneously". Standard dictionary meaning; also given in Nison, Japanese Candlestick Charting Techniques (1991).
+2. Candlesticks widely introduced to Western markets by Steve Nison, Japanese Candlestick Charting Techniques, New York Institute of Finance, 1991 (named in notes only, not in narration).
+3. Doji more significant as a top reversal after a rally than after a decline; a market "can fall of its own weight": Nison, Japanese Candlestick Charting Techniques (1991), chapter on doji.
+4. Evening doji star definition (long white candle in uptrend, doji gapping above it, then black candle closing well into the first body): Nison (1991); also standard in candlestick glossaries.
+5. Gravestone, dragonfly, long-legged doji definitions: standard candlestick terminology, Nison (1991).
+6. No universal body-size threshold for a doji: charting platforms each define their own tolerance.
+
+PINNED COMMENT
+Disclaimer: This video is educational content only and is not financial advice. It explains how the doji candlestick pattern is traditionally read. No specific asset is being recommended, and nothing here is a signal to buy, sell, or hold anything. Trading involves risk of loss. Do your own research and consider your own situation before making any financial decision.
